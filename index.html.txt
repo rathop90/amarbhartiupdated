@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>AmarBharti - Your Trusted News Source</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <div class="logo">
+            <h1><a href="/">AmarBharti</a></h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">World</a></li>
+                <li><a href="#">Politics</a></li>
+                <li><a href="#">Business</a></li>
+                <li><a href="#">Sports</a></li>
+                <li><a href="#">Opinion</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Top Stories Section -->
+        <section class="top-stories">
+            <h2>Top Stories</h2>
+            <div class="top-story">
+                <img src="https://via.placeholder.com/500x300" alt="Top story image">
+                <div class="story-content">
+                    <h3>Breaking News: Major Event Happening Right Now</h3>
+                    <p>Stay tuned for the latest updates on this developing story...</p>
+                    <a href="#">Read More</a>
+                </div>
+            </div>
+            <!-- More stories can go here -->
+        </section>
+
+        <!-- Popular Stories Section -->
+        <section class="popular-stories">
+            <h2>Trending Stories</h2>
+            <div class="story-item">
+                <h3><a href="#">Popular Story 1</a></h3>
+                <p>Summary of the trending news story...</p>
+            </div>
+            <div class="story-item">
+                <h3><a href="#">Popular Story 2</a></h3>
+                <p>Summary of the trending news story...</p>
+            </div>
+            <!-- More stories -->
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2025 AmarBharti. All rights reserved.</p>
+        <nav>
+            <ul>
+                <li><a href="#">Contact Us</a></li>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">Terms of Service</a></li>
+            </ul>
+        </nav>
+    </footer>
+
+</body>
+</html>
